@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--Follow the instructions on the page. It will help if you open this file as a webpage while you work-->
+<html>
+    <head>
+        <link rel="stylesheet" href="js_challenge_1.css">
+        <script src="js_challenge_1.js"></script>
+    </head>
+    <title>
+        JaveScript Challenge 1 - Cooking School
+    </title>
+
+    <body style="background-color: #faf5e4">
+        <h1>
+            JavaScript Challenge 1- Cooking School
+        </h1>
+
+        <p>
+            <b class="instructions">Instructions:</b> 
+            <ol>
+                <li>Using the JavaScript page, add a second promp to ask the user their last name.</li>
+                <li>Change the alert to greet the person by their first and last name.</li>
+                <li>Add a picture of a person cooking to the bottom of the page.</li> 
+                    <ul>
+                        <li>Style using CSS to have the picture fit the page.</li>
+                    </ul>
+                <li>Add a button for the user to apply to the cooking school.</li> 
+                    <ul>
+                        <li>Syle using CSS to add colors that fit the current theme of the page.</li>
+                        <li>This will be a non-functioning button for this part of the challenge.</li>
+                    </ul>
+                <li>Ask the user how old they are.</li> 
+                    <ul>
+                        <li>Set the rule so users under age 14 are alerted that they cannot apply.</li>
+                        <li>Users 14 and older should be given a welcome alert.</li>
+                        <li><em>Hint: Use an if/else statement to help you</em></li>
+                    </ul> 
+            </ol>
+        </p>
+
+        <!--Place the picture here -->
+
+        <!--Place the button here-->
+    </body>
+</html>
